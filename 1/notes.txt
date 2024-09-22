@@ -1,0 +1,29 @@
+1.7 hitta ne anledning till att använda rowspan
+
+
+1.8 fattar inte denna, kom tillbaka till den senare
+
+
+
+Enligt uppgiften ska du skapa minst tre identiska bilder för varje format (PNG, GIF och JPEG) med olika inställningar. Det innebär att du behöver skapa följande bilder:
+
+PNG och GIF (icke förstörande kompression):
+PNG-bild 1: En version med transparens.
+PNG-bild 2: En version utan transparens.
+PNG-bild 3: En version med olika bitdjup.
+
+
+
+GIF-bild 1: En version med sammanflätning (interlacing).
+GIF-bild 2: En version utan sammanflätning.
+JPEG (förstörande kompression):
+JPEG-bild 1: En version med hög komprimering.
+JPEG-bild 2: En version med låg komprimering.
+JPEG-bild 3: En progressiv JPEG-bild.
+Minst antal bilder:
+Minst 3 bilder per format (PNG, GIF, JPEG).
+Du har två format (PNG och GIF) i icke förstörande kompression.
+Ett format (JPEG) i förstörande kompression.
+Totalt: 3 (PNG) + 2 (GIF) + 3 (JPEG) = minst 8 bilder.
+
+Det är dock möjligt att skapa fler versioner om du vill utforska fler varianter av transparens, sammanflätning, bitdjup, komprimeringsgrad och progressivitet.
